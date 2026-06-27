@@ -68,7 +68,7 @@ I am a Master's student in **Entrepreneurship and Innovation Management** at **T
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rizuanulkabir&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Rizuanul's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizuanulkabir&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  
 </p>
 
 <p align="center">
